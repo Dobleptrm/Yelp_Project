@@ -1,0 +1,1 @@
+En esta carpeta se almacenan los posibles datos en diferentes formatos (csv, parquet, ...)
